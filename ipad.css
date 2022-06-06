@@ -1,0 +1,11 @@
+@document url("https://twitter.com") {
+  .css-1dbjc4n" [data-testid="placementTracking"] {
+  display: none !important;
+}
+[aria-labelledby="accessible-list-4"] {
+  display: none !important;
+}
+[data-testid="primaryColumn"] {
+width: 85% !important;
+}
+}
